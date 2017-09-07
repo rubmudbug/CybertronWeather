@@ -21,6 +21,7 @@ import android.widget.Toast;
 import com.example.cybertron.cybertronweather.db.City;
 import com.example.cybertron.cybertronweather.db.County;
 import com.example.cybertron.cybertronweather.db.Province;
+import com.example.cybertron.cybertronweather.gson.Weather;
 import com.example.cybertron.cybertronweather.util.HttpUtil;
 import com.example.cybertron.cybertronweather.util.Utility;
 
